@@ -53,6 +53,7 @@ project-root/
 │
 ├── package.json               # Project dependencies and scripts
 └── vite.config.js             # Vite configuration (if using Vite)
+```
 
 ## Installation
 
