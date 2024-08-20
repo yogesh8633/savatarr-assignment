@@ -4,11 +4,11 @@ import "swiper/css/effect-fade";
 import { EffectFade, Autoplay } from "swiper/modules";
 
 // Import your images
-import static1 from "./assets/static1.jpg";
-import static2 from "./assets/static2.jpg";
-import static3 from "./assets/static3.jpg";
-import product1 from "./assets/keraShampoo.jpg";
-import product2 from "./assets/keraSmooth.jpg";
+import static1 from "../assets/static1.jpg";
+import static2 from "../assets/static2.jpg";
+import static3 from "../assets/static3.jpg";
+import product1 from "../assets/keraShampoo.jpg";
+import product2 from "../assets/keraSmooth.jpg";
 
 const SliderComponent = () => {
   return (

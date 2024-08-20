@@ -1,5 +1,5 @@
-import Header from './Header';
-import SliderComponent from './SliderComponent';
+import Header from "./components/Header";
+import SliderComponent from "./components/SliderComponent";
 
 function App() {
   return (

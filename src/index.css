@@ -89,9 +89,9 @@ button{
   }
 }
 
-@media (max-width:768px) {
+@media (max-width:767px) {
   .product-name{
-   margin-left: 8rem !important;
+   margin-left: 7rem !important;
   }
 }
 @media (max-width:425px) {
